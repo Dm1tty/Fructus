@@ -1,7 +1,7 @@
 # Fructus - Food Encyclopedia
 <h2> This app demonstrates cool features that were introduced when SwiftUI came out.</h2>
 <img src="https://img-c.udemycdn.com/redactor/raw/2020-07-05_09-56-54-a83a7d5cd257d70aee56d89184c60c70.jpg" alt="Fructus Logo">
-<p>SwiftUI offers new features, improved performance, and the power to do, even more, all while maintaining a stable API that makes it easy to bring your existing SwiftUI code forward into Xcode 12.<\p>
+<p>SwiftUI offers new features, improved performance, and the power to do, even more, all while maintaining a stable API that makes it easy to bring your existing SwiftUI code forward into Xcode 12.</p>
 
 <h2>In this project I have mastered:</h2>
 <ul>
