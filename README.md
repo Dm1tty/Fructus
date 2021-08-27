@@ -1,5 +1,5 @@
-# Fructus
-I am making Fructus to practice my SwiftUI Skills
+# Fructus - Food Encyclopedia
+<h1> This app demonstrates cool features that were introduced when SwiftUI came out.</h1>
 <img src="https://img-c.udemycdn.com/redactor/raw/2020-07-05_09-56-54-a83a7d5cd257d70aee56d89184c60c70.jpg" alt="Fructus Logo">
 
 
