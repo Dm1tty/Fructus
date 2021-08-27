@@ -23,6 +23,6 @@
 <img src="https://img-c.udemycdn.com/redactor/raw/2020-07-05_09-55-43-faef4080d9f7afcc3833a8bcf04a3c9a.jpg" alt="Fructus Icon">
 
 <h2> Demo </h2>
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=NWFh6yS5dfI&ab_channel=DzmitryMatsiulka">
-</iframe>
+<a href="https://www.youtube.com/watch?v=NWFh6yS5dfI&ab_channel=DzmitryMatsiulka">
+<img src="https://sun9-87.userapi.com/impg/Ys7-7hfCe43mIj7xzrqALyIZVFAzWJEWcu1Q0w/KJ885Uxax34.jpg?size=1878x1194&quality=96&sign=14faf9891c0ffcec7b093eeb4500ea38&type=album" alt="Fructus Demo" style="width:42px;height:42px;">
+</a>
