@@ -20,3 +20,4 @@ I am making Fructus to practice my SwiftUI Skills
 <li>Get familiar with the new Xcode 12</li>
 
 </ul>
+<img src="https://img-c.udemycdn.com/redactor/raw/2020-07-05_09-55-43-faef4080d9f7afcc3833a8bcf04a3c9a.jpg" alt="Fructus Icon">
